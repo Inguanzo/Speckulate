@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Speckulate</string>
+
+    <!-- Bookmark text used on home.  -->
+    <string name="bookmark">Bookmark</string>
+    <!-- Share text used on home.  -->
+    <string name="share">Share</string>
+
+
+    <!-- Primary name used for card view header.  -->
+    <string name="name">Name</string>
+    <!-- Last name used for card view header.  -->
+    <string name="surname">Surname</string>
+    <!-- Title used for card view header.  -->
+    <string name="title">Title</string>
+    <!-- Email used for card view header.  -->
+    <string name="email">Email</string>
+</resources>
